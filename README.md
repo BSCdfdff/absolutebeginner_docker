@@ -4,7 +4,7 @@
 
 
 
-![absolutebeginner](./images/Introduction/610px-Docker_(container_engine)_logo.svg) (***image from wikipedia***)
+![absolutebeginner](./images/Introduction/610px-Docker_(container_engine)_logo.svg.png) (***image from wikipedia***)
 
 
 ### Based on the following inter alia udemy courses:
